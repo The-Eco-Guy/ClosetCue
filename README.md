@@ -81,5 +81,5 @@ The PHP API returns JSON with appropriate 400/404/405/413/415/500/503 statuses a
 
 FLEXICORE-3131, Web Technology, V Sem B.Tech, MIT Manipal.
 
-- Student 1: Home dashboard and Add Garment.
-- Student 2: My Closet and Item Details / Complete the Look.
+- Muhir Kapoor: Home dashboard and Add Garment.
+- Aanya Verma: My Closet and Item Details / Complete the Look.

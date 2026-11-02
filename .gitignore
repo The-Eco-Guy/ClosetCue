@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Node & dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# QA & Test artifacts
+qa/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Dynamic runtime user uploads (retains sample photos and .gitkeep)
+uploads/garment_*
+
+# Microsoft Office temporary lock files and blank template
+~$*
+FullName_RegNo_*.docx
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
